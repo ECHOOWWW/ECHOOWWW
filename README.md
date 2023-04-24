@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Echo🐱</h1>
 <h3 align="center">An aspiring programmer studying in BCIT</h3>
 
-🎓 PKU & HKU Alumni, majored in literature, sociology and psychology.
+🎓 PKU & HKU alumni, majored in literature, sociology and psychology.
 
 🌱 Team player, lifelong learner. Always open to new techniques.
 
