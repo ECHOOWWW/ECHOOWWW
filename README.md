@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Echo🐱</h1>
 <h3 align="center">An aspiring programmer studying in BCIT</h3>
 
-- 🌱 **Team player, lifelong learner. Always open to new techniques.**
+🌱 **Team player, lifelong learner. Always open to new techniques.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
