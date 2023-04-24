@@ -2,6 +2,7 @@
 <h3 align="center">An aspiring programmer studying in BCIT</h3>
 
 🌱 **Team player, lifelong learner. Always open to new techniques.**
+
 🎓 **PKU & HKU Alumni, majored in literature, sociology and psychology.**
 
 <h3 align="left">Languages and Tools:</h3>
