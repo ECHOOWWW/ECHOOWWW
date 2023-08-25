@@ -6,9 +6,9 @@
 
 🌱 Team player, lifelong learner. Always open to new techniques.
 
-🐱 Love cats and music.
+🎵 Love cats and music.
 
-<h3>My Skills</h3>
+<h3># My Skills</h3>
 <h4>Languages</h4>
 
   
@@ -35,7 +35,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<h3>Connect with Me</h3>
+<h3># Connect with Me</h3>
 <p>
 <a href="https://linkedin.com/in/echo wang" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="echo wang" /></a>
 <a href="https://discordapp.com/users/1036123996263026698" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="echo wang" /></a>
