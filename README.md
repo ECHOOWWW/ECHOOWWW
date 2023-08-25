@@ -40,9 +40,13 @@
 <a href="https://linkedin.com/in/echo wang" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="echo wang" /></a>
 <a href="https://discordapp.com/users/1036123996263026698" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="echo wang" /></a>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=echoowww&show_icons=true&locale=en&layout=compact" alt="echoowww" /></p>
+<h3># Coding...</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=echoowww&show_icons=true&locale=en" alt="echoowww" height="180" style="diaplay:inline;" />
-<a href="https://leetcode.com/EchooWww/" target="blank"><img align="center" src="https://leetcode-stats.vercel.app/api?username=EchooWww&theme=light" alt="echo wang" height="180" /></a>
+<p style="display:inline;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=echoowww&show_icons=true&locale=en&layout=compact" alt="echoowww" style="display:inline; width:300px" />
+</p>
+<a href="https://leetcode.com/EchooWww/" target="blank" style="display:inline;">
+  <img align="center" src="https://leetcode-stats.vercel.app/api?username=EchooWww&theme=light" alt="echo wang" height="180" style="display:inline;width:340px" />
+</a>
 
 </div>
