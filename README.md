@@ -45,7 +45,7 @@
 <h3># Coding...</h3>
 
 <p style="display:inline;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=echoowww&show_icons=true&locale=en&layout=compact" alt="echoowww" style="display:inline; width:300px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=echoowww&show_icons=true&locale=en&layout=compact&hide=css,scss" alt="echoowww" style="display:inline; width:300px" />
 </p>
 <a href="https://leetcode.com/EchooWww/" target="blank" style="display:inline;">
   <img align="center" src="https://leetcode-stats.vercel.app/api?username=EchooWww&theme=light" alt="echo wang" height="180" style="display:inline;width:340px" />
